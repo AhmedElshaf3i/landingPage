@@ -1,4 +1,4 @@
-import footerLogo from "../../img/logo-h.png";
+import footerLogo from "../../img/logo2.png";
 const Footer = () => {
   return (
     <footer class="footer mt-5" data-black-overlay="8">

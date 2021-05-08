@@ -7,7 +7,7 @@ const MainSuppliers = () => {
           <span className="mainSuppliersHeader">[</span>Main Suppliers
           <span className="mainSuppliersHeader">]</span>
         </h2>
-        <div className="row no-gutters mt-5">
+        <div className="row  mt-5">
           {/* 1 */}
           <div className="col-lg-2 col-md-3 col-sm-4 col-6 wow fadeInUp   tm-service bg-white">
             <a class="" href="/">

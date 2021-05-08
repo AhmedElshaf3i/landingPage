@@ -9,7 +9,11 @@ html {
   line-height: 1.4;
   font-family: "Quicksand", sans-serif !important;
 }
-
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
   font-family: "Quicksand", sans-serif !important;
   font-weight: 600 !important;
@@ -4904,15 +4908,11 @@ button.tm-videobutton:hover span {
 }
 
 /* ........................................................................ */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 .part1 {
   position: relative;
-  overflow: hidden;
+  overflow: hidden !important;
   float: left;
   border: solid 3px #fff;
 }
